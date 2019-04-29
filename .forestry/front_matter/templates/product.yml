@@ -41,5 +41,3 @@ fields:
   config:
     required: false
   label: Product Url
-pages:
-- content/products/randoCheese.md
