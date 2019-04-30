@@ -41,3 +41,7 @@ fields:
   config:
     required: false
   label: Product Url
+pages:
+- content/products/batmanCheese.md
+- content/products/coolCheese.md
+- content/products/superCheese.md
